@@ -15,4 +15,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Puni2001/Leetcode_Practice/tree/master/0005-longest-palindromic-substring) |
+## Array
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Puni2001/Leetcode_Practice/tree/master/0004-median-of-two-sorted-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Puni2001/Leetcode_Practice/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Puni2001/Leetcode_Practice/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
