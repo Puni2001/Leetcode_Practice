@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Puni2001/Leetcode_Practice/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/Puni2001/Leetcode_Practice/tree/master/0012-integer-to-roman) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -27,4 +28,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Puni2001/Leetcode_Practice/tree/master/0004-median-of-two-sorted-arrays) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Puni2001/Leetcode_Practice/tree/master/0012-integer-to-roman) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Puni2001/Leetcode_Practice/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
