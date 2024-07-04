@@ -35,5 +35,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Puni2001/Leetcode_Practice/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Puni2001/Leetcode_Practice/tree/master/0012-integer-to-roman) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Puni2001/Leetcode_Practice/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Puni2001/Leetcode_Practice/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
