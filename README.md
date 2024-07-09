@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Puni2001/Leetcode_Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0217-contains-duplicate](https://github.com/Puni2001/Leetcode_Practice/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Puni2001/Leetcode_Practice/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Puni2001/Leetcode_Practice/tree/master/0012-integer-to-roman) |
+| [0217-contains-duplicate](https://github.com/Puni2001/Leetcode_Practice/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -47,4 +49,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Puni2001/Leetcode_Practice/tree/master/0002-add-two-numbers) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Puni2001/Leetcode_Practice/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
