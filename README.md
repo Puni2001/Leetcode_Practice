@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Puni2001/Leetcode_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Puni2001/Leetcode_Practice/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/Puni2001/Leetcode_Practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Puni2001/Leetcode_Practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Puni2001/Leetcode_Practice/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
@@ -62,4 +63,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Puni2001/Leetcode_Practice/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Puni2001/Leetcode_Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Puni2001/Leetcode_Practice/tree/master/0242-valid-anagram) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Puni2001/Leetcode_Practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
