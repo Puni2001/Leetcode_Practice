@@ -1,9 +1,13 @@
+from collections import defaultdict
 class Solution:
-    def groupAnagrams(self, strs):
-        anagram_map = defaultdict(list)
-        
-        for word in strs:
-            sorted_word = ''.join(sorted(word))
-            anagram_map[sorted_word].append(word)
-        
-        return list(anagram_map.values())
+    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
+        res = defaultdict(list)
+
+        for s in strs:
+
+            char_count = [0] * 26
+            for char in s:
+                char_count[ord(char)-ord('a')] += 1
+            res[tuple(char_count)].append(s)
+
+        return list(res.values())
