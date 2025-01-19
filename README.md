@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Puni2001/Leetcode_Practice/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Puni2001/Leetcode_Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Puni2001/Leetcode_Practice/tree/master/0015-3sum) |
 | [0283-move-zeroes](https://github.com/Puni2001/Leetcode_Practice/tree/master/0283-move-zeroes) |
 ## String
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/Puni2001/Leetcode_Practice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Puni2001/Leetcode_Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Puni2001/Leetcode_Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Puni2001/Leetcode_Practice/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/Puni2001/Leetcode_Practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Puni2001/Leetcode_Practice/tree/master/0049-group-anagrams) |
@@ -120,4 +122,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Puni2001/Leetcode_Practice/tree/master/0238-product-of-array-except-self) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Puni2001/Leetcode_Practice/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
