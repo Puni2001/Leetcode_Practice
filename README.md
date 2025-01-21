@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Puni2001/Leetcode_Practice/tree/master/0005-longest-palindromic-substring) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Puni2001/Leetcode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Array
 |  |
 | ------- |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Puni2001/Leetcode_Practice/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/Puni2001/Leetcode_Practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Puni2001/Leetcode_Practice/tree/master/0049-group-anagrams) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Puni2001/Leetcode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Puni2001/Leetcode_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Puni2001/Leetcode_Practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Puni2001/Leetcode_Practice/tree/master/0238-product-of-array-except-self) |
