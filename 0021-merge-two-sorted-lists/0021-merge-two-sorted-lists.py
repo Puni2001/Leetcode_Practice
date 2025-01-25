@@ -11,8 +11,7 @@ class Solution:
             if list1.val < list2.val:
                 curr.next = list1
                 curr = list1
-                list1 = list1.next
-
+                list1 = list1.next 
             else:
                 curr.next = list2
                 curr = list2
@@ -20,4 +19,5 @@ class Solution:
 
         curr.next = list1 if list1 else list2
 
-        return dummy.next
+        return dummy.next 
+
