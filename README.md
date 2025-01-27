@@ -141,4 +141,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Puni2001/Leetcode_Practice/tree/master/0011-container-with-most-water) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Puni2001/Leetcode_Practice/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Puni2001/Leetcode_Practice/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Puni2001/Leetcode_Practice/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Puni2001/Leetcode_Practice/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
