@@ -3,7 +3,13 @@ class Solution:
         if len(s) != len(t):
             return False
 
-        s = sorted(s)
-        t = sorted(t)
+        count = [0] * 26
 
-        return s == t
+        for char_s , char_t in zip(s,t):
+            count[ord(char_s) - ord('a')] += 1
+            count[ord(char_t) - ord('a')] -= 1
+
+
+        return all(x==0 for x in count)
+
+        
