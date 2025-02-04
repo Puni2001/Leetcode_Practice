@@ -3,17 +3,18 @@ class Solution:
         n = len(nums)
         output = [1] * n
 
-        # prefix 
-        prefix = 1
+        prefix_product = 1
         for i in range(n):
-            output[i] = prefix
-            prefix *= nums[i]
+            output[i] = prefix_product 
+            prefix_product *= nums[i]
 
-
-        suffix = 1
+        suffix_product = 1
         for i in range(n-1,-1,-1):
-            output[i] *= suffix 
-            suffix *= nums[i]
+            output[i] *= suffix_product
+            suffix_product *= nums[i]
 
 
-        return output 
+        return output
+
+
+
