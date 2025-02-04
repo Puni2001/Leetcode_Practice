@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/Puni2001/Leetcode_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Puni2001/Leetcode_Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Puni2001/Leetcode_Practice/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/Puni2001/Leetcode_Practice/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Puni2001/Leetcode_Practice/tree/master/0283-move-zeroes) |
 ## String
 |  |
@@ -18,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/Puni2001/Leetcode_Practice/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Puni2001/Leetcode_Practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Puni2001/Leetcode_Practice/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Puni2001/Leetcode_Practice/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Puni2001/Leetcode_Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Puni2001/Leetcode_Practice/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Puni2001/Leetcode_Practice/tree/master/0424-longest-repeating-character-replacement) |
