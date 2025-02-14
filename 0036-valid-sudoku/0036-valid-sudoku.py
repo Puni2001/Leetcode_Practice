@@ -1,25 +1,29 @@
 class Solution:
     def isValidSudoku(self, board: List[List[str]]) -> bool:
-        row = [set() for i in range(9)]
-        col = [set() for i in range(9)]
-        boxes = [set() for i in range(9)]
+        # Initialize hash sets for rows, columns, and sub-boxes
+        rows = [set() for _ in range(9)]
+        cols = [set() for _ in range(9)]
+        boxes = [set() for _ in range(9)]
 
-        for i in range(9):
-            for j in range(9):
+        # Traverse the board
+        for i in range(9):  # Rows
+            for j in range(9):  # Columns
                 num = board[i][j]
 
-                if num == ".":
+                # Skip empty cells
+                if num == '.':
                     continue
 
-                box_index = (i //3 ) * 3 + (j // 3)
+                # Calculate sub-box index
+                box_index = (i // 3) * 3 + (j // 3)
 
-                if num in row[i] or num in col[j] or num in boxes[box_index]:
-                    return False
+                # Check if number already exists
+                if num in rows[i] or num in cols[j] or num in boxes[box_index]:
+                    return False  # Duplicate found
 
-                
-                row[i].add(num)
-                col[j].add(num)
+                # Add number to the respective sets
+                rows[i].add(num)
+                cols[j].add(num)
                 boxes[box_index].add(num)
 
-
-        return True
+        return True  # No duplicates found
