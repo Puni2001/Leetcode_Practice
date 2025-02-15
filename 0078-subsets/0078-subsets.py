@@ -3,19 +3,19 @@ class Solution:
         result = []
 
         def backtrack(index,current_subset):
-            # base case 
             if index == len(nums):
-                result.append(current_subset[:])
+                result.append(current_subset.copy())
                 return
-
-            # include nums[index]
+            
+            # include
             current_subset.append(nums[index])
-            backtrack(index+1, current_subset)
+            backtrack(index+1,current_subset)
 
-            # exclude nums[index] or remove or backtrack
+            # exclude
             current_subset.pop()
-            backtrack(index+1, current_subset)
+            backtrack(index+1,current_subset)
+            
         
         backtrack(0,[])
 
-        return result 
+        return result
