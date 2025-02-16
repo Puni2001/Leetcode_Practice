@@ -6,7 +6,7 @@ class Solution:
         # [-4,-1,-1,0,1,2]
         nums.sort()
         res = []
-        for i in range(len(nums)):
+        for i in range(len(nums)-2):
             if i > 0 and nums[i] == nums[i-1]:
                 continue
 
