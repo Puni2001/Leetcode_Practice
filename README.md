@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Puni2001/Leetcode_Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Puni2001/Leetcode_Practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Puni2001/Leetcode_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Puni2001/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Puni2001/Leetcode_Practice/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Puni2001/Leetcode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Puni2001/Leetcode_Practice/tree/master/0283-move-zeroes) |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Puni2001/Leetcode_Practice/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Puni2001/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Puni2001/Leetcode_Practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Puni2001/Leetcode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Array
@@ -47,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/Puni2001/Leetcode_Practice/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Puni2001/Leetcode_Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Puni2001/Leetcode_Practice/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Puni2001/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Puni2001/Leetcode_Practice/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Puni2001/Leetcode_Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Puni2001/Leetcode_Practice/tree/master/0053-maximum-subarray) |
@@ -125,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Puni2001/Leetcode_Practice/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Puni2001/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Puni2001/Leetcode_Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [3447-clear-digits](https://github.com/Puni2001/Leetcode_Practice/tree/master/3447-clear-digits) |
 ## Heap (Priority Queue)
@@ -249,4 +253,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Puni2001/Leetcode_Practice/tree/master/0078-subsets) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Puni2001/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
