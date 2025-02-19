@@ -1,18 +1,25 @@
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
-        count = {}
-        max_freq = 0 
+        """
+        optimal -> using sliding window 
+        s = 'AABABABAAAAB'
+             l
+                 r                  longest =  0  count_char = {A: 0 , B : 0}
+        while w - max(char_count[s[r]]) > k:
+
+        """
+        longest = 0
+        counts = [0] * 26
         left = 0
-        max_length = 0
 
         for right in range(len(s)):
-            count[s[right]] = count.get(s[right], 0) + 1
-            max_freq = max(max_freq, count[s[right]])
-
-            while (right-left) + 1 - max_freq > k:
-                count[s[left]] -=1 
+            counts[ord(s[right]) - ord('A')] += 1
+            while (right-left)+1 - max(counts) > k:
+                counts[ord(s[left]) - ord('A')] -= 1
                 left += 1
-            max_length = max(max_length, right- left + 1)
-        
-        return max_length
-        
+
+            longest = max(longest, (right-left)+1)
+
+        return longest
+           
+
