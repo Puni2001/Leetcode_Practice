@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Puni2001/Leetcode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Puni2001/Leetcode_Practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Puni2001/Leetcode_Practice/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Puni2001/Leetcode_Practice/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Puni2001/Leetcode_Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Puni2001/Leetcode_Practice/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Puni2001/Leetcode_Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Puni2001/Leetcode_Practice/tree/master/0567-permutation-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Puni2001/Leetcode_Practice/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3447-clear-digits](https://github.com/Puni2001/Leetcode_Practice/tree/master/3447-clear-digits) |
 ## Dynamic Programming
@@ -97,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Puni2001/Leetcode_Practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Puni2001/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Puni2001/Leetcode_Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Puni2001/Leetcode_Practice/tree/master/0567-permutation-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Puni2001/Leetcode_Practice/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Math
 |  |
@@ -165,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Puni2001/Leetcode_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Puni2001/Leetcode_Practice/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Puni2001/Leetcode_Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Puni2001/Leetcode_Practice/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
