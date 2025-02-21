@@ -5,16 +5,30 @@
 #         self.next = next
 class Solution:
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
-       # Initialize a pointer 
+        """
+        h
+        1 -> 2 -> 3 -> 4 -> 5
+prev   curr
         prev = None 
-        curr = head 
+        head = curr 
+        
+        traverse the linked list untill head is None 
+        next_node = curr.next
+        curr.next = prev
+        prev = curr
+        curr = next_node 
 
-        # Iterate through a linked list
-        while curr:
+        return prev 
+
+        """
+
+        prev = None 
+        curr = head
+
+        while curr: # until we traverse entire linked list 
             next_node = curr.next
             curr.next = prev 
-            prev = curr
-            curr = next_node
+            prev = curr 
+            curr = next_node 
 
         return prev
-        
