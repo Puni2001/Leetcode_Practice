@@ -1,18 +1,20 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        st = []
-
-        for i in range(len(s)):
-            if st:
-                last = st[-1]
-                if self.is_pair(last, s[i]):
-                    st.pop()
-                    continue
-            st.append(s[i])
+        # Initialize an empty stack and a hash map for matching brackets
+        stack = []
+        hash = {')': '(', ']': '[', '}': '{'}
         
-        return not st
-    
-    def is_pair(self, last, cur):
-        if last == "(" and cur == ")" or last == "{" and cur == "}" or last == "[" and cur == "]":
-            return True
-        return False
+        # Loop through each character in the string
+        for char in s:
+            if char in hash:
+                # If it's a closing bracket, check the stack
+                if stack and stack[-1] == hash[char]:
+                    stack.pop()  # Remove the matching opening bracket
+                else:
+                    return False  # Invalid if no match
+            else:
+                # Push opening brackets onto the stack
+                stack.append(char)
+        
+        # Return True if stack is empty, False otherwise
+        return not stack
