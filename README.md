@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Puni2001/Leetcode_Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Puni2001/Leetcode_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Puni2001/Leetcode_Practice/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Puni2001/Leetcode_Practice/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Puni2001/Leetcode_Practice/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Puni2001/Leetcode_Practice/tree/master/0908-middle-of-the-linked-list) |
 ## String
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/Puni2001/Leetcode_Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Puni2001/Leetcode_Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Puni2001/Leetcode_Practice/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Puni2001/Leetcode_Practice/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Puni2001/Leetcode_Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Puni2001/Leetcode_Practice/tree/master/0567-permutation-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Puni2001/Leetcode_Practice/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -41,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Puni2001/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Puni2001/Leetcode_Practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Puni2001/Leetcode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Puni2001/Leetcode_Practice/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/Puni2001/Leetcode_Practice/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
