@@ -248,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0620-not-boring-movies](https://github.com/Puni2001/Leetcode_Practice/tree/master/0620-not-boring-movies) |
+| [1908-recyclable-and-low-fat-products](https://github.com/Puni2001/Leetcode_Practice/tree/master/1908-recyclable-and-low-fat-products) |
 ## Design
 |  |
 | ------- |
