@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Puni2001/Leetcode_Practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Puni2001/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Puni2001/Leetcode_Practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0155-min-stack](https://github.com/Puni2001/Leetcode_Practice/tree/master/0155-min-stack) |
 | [3447-clear-digits](https://github.com/Puni2001/Leetcode_Practice/tree/master/3447-clear-digits) |
 ## Heap (Priority Queue)
 |  |
@@ -263,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Puni2001/Leetcode_Practice/tree/master/0155-min-stack) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Puni2001/Leetcode_Practice/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
