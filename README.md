@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/Puni2001/Leetcode_Practice/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Puni2001/Leetcode_Practice/tree/master/0012-integer-to-roman) |
+| [0050-powx-n](https://github.com/Puni2001/Leetcode_Practice/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Puni2001/Leetcode_Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1013-fibonacci-number](https://github.com/Puni2001/Leetcode_Practice/tree/master/1013-fibonacci-number) |
 ## Linked List
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/Puni2001/Leetcode_Practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Puni2001/Leetcode_Practice/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Puni2001/Leetcode_Practice/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Puni2001/Leetcode_Practice/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/Puni2001/Leetcode_Practice/tree/master/1013-fibonacci-number) |
 ## Sorting
