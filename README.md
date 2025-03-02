@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/Puni2001/Leetcode_Practice/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Puni2001/Leetcode_Practice/tree/master/0908-middle-of-the-linked-list) |
 | [2551-apply-operations-to-an-array](https://github.com/Puni2001/Leetcode_Practice/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Puni2001/Leetcode_Practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## String
 |  |
 | ------- |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/Puni2001/Leetcode_Practice/tree/master/0792-binary-search) |
 | [2145-grid-game](https://github.com/Puni2001/Leetcode_Practice/tree/master/2145-grid-game) |
 | [2551-apply-operations-to-an-array](https://github.com/Puni2001/Leetcode_Practice/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Puni2001/Leetcode_Practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -120,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/Puni2001/Leetcode_Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Puni2001/Leetcode_Practice/tree/master/0567-permutation-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Puni2001/Leetcode_Practice/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Puni2001/Leetcode_Practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Math
 |  |
 | ------- |
