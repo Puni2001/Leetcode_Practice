@@ -22,13 +22,12 @@ prev   curr
 
         """
 
-        prev = None 
-        curr = head
+        prev = None
+        curr = head 
+        while curr:
+          next_node = curr.next 
+          curr.next = prev 
+          prev = curr 
+          curr = next_node 
 
-        while curr: # until we traverse entire linked list 
-            next_node = curr.next
-            curr.next = prev 
-            prev = curr 
-            curr = next_node 
-
-        return prev
+        return prev 
