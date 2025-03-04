@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/Puni2001/Leetcode_Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Puni2001/Leetcode_Practice/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Puni2001/Leetcode_Practice/tree/master/1013-fibonacci-number) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Puni2001/Leetcode_Practice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Linked List
 |  |
 | ------- |
