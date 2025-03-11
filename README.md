@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/Puni2001/Leetcode_Practice/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Puni2001/Leetcode_Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Puni2001/Leetcode_Practice/tree/master/0567-permutation-in-string) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Puni2001/Leetcode_Practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Puni2001/Leetcode_Practice/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Puni2001/Leetcode_Practice/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3447-clear-digits](https://github.com/Puni2001/Leetcode_Practice/tree/master/3447-clear-digits) |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Puni2001/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Puni2001/Leetcode_Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Puni2001/Leetcode_Practice/tree/master/0567-permutation-in-string) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Puni2001/Leetcode_Practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Puni2001/Leetcode_Practice/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Puni2001/Leetcode_Practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/Puni2001/Leetcode_Practice/tree/master/3227-find-missing-and-repeated-values) |
@@ -233,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/Puni2001/Leetcode_Practice/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Puni2001/Leetcode_Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Puni2001/Leetcode_Practice/tree/master/0567-permutation-in-string) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Puni2001/Leetcode_Practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Puni2001/Leetcode_Practice/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/Puni2001/Leetcode_Practice/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Puni2001/Leetcode_Practice/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
