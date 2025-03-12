@@ -215,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/Puni2001/Leetcode_Practice/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Puni2001/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
+| [1708-design-parking-system](https://github.com/Puni2001/Leetcode_Practice/tree/master/1708-design-parking-system) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Puni2001/Leetcode_Practice/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Puni2001/Leetcode_Practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Quickselect
@@ -338,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/Puni2001/Leetcode_Practice/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Puni2001/Leetcode_Practice/tree/master/0155-min-stack) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Puni2001/Leetcode_Practice/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1708-design-parking-system](https://github.com/Puni2001/Leetcode_Practice/tree/master/1708-design-parking-system) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -351,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [1708-design-parking-system](https://github.com/Puni2001/Leetcode_Practice/tree/master/1708-design-parking-system) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Puni2001/Leetcode_Practice/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Puni2001/Leetcode_Practice/tree/master/2551-apply-operations-to-an-array) |
 | [3447-clear-digits](https://github.com/Puni2001/Leetcode_Practice/tree/master/3447-clear-digits) |
