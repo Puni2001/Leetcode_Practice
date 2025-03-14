@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/Puni2001/Leetcode_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Puni2001/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0792-binary-search](https://github.com/Puni2001/Leetcode_Practice/tree/master/0792-binary-search) |
+| [0883-car-fleet](https://github.com/Puni2001/Leetcode_Practice/tree/master/0883-car-fleet) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Puni2001/Leetcode_Practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2145-grid-game](https://github.com/Puni2001/Leetcode_Practice/tree/master/2145-grid-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Puni2001/Leetcode_Practice/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Puni2001/Leetcode_Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Puni2001/Leetcode_Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Puni2001/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
+| [0883-car-fleet](https://github.com/Puni2001/Leetcode_Practice/tree/master/0883-car-fleet) |
 ## Stack
 |  |
 | ------- |
@@ -207,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Puni2001/Leetcode_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Puni2001/Leetcode_Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Puni2001/Leetcode_Practice/tree/master/0155-min-stack) |
+| [0883-car-fleet](https://github.com/Puni2001/Leetcode_Practice/tree/master/0883-car-fleet) |
 | [3447-clear-digits](https://github.com/Puni2001/Leetcode_Practice/tree/master/3447-clear-digits) |
 ## Heap (Priority Queue)
 |  |
@@ -385,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Puni2001/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
+| [0883-car-fleet](https://github.com/Puni2001/Leetcode_Practice/tree/master/0883-car-fleet) |
 ## Queue
 |  |
 | ------- |
