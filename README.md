@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/Puni2001/Leetcode_Practice/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Puni2001/Leetcode_Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Puni2001/Leetcode_Practice/tree/master/0567-permutation-in-string) |
+| [1023-time-based-key-value-store](https://github.com/Puni2001/Leetcode_Practice/tree/master/1023-time-based-key-value-store) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Puni2001/Leetcode_Practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Puni2001/Leetcode_Practice/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Puni2001/Leetcode_Practice/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/Puni2001/Leetcode_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Puni2001/Leetcode_Practice/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Puni2001/Leetcode_Practice/tree/master/0907-koko-eating-bananas) |
+| [1023-time-based-key-value-store](https://github.com/Puni2001/Leetcode_Practice/tree/master/1023-time-based-key-value-store) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Puni2001/Leetcode_Practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Puni2001/Leetcode_Practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/Puni2001/Leetcode_Practice/tree/master/3643-zero-array-transformation-ii) |
@@ -148,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Puni2001/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Puni2001/Leetcode_Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Puni2001/Leetcode_Practice/tree/master/0567-permutation-in-string) |
+| [1023-time-based-key-value-store](https://github.com/Puni2001/Leetcode_Practice/tree/master/1023-time-based-key-value-store) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Puni2001/Leetcode_Practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Puni2001/Leetcode_Practice/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Puni2001/Leetcode_Practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -356,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/Puni2001/Leetcode_Practice/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Puni2001/Leetcode_Practice/tree/master/0155-min-stack) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Puni2001/Leetcode_Practice/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1023-time-based-key-value-store](https://github.com/Puni2001/Leetcode_Practice/tree/master/1023-time-based-key-value-store) |
 | [1708-design-parking-system](https://github.com/Puni2001/Leetcode_Practice/tree/master/1708-design-parking-system) |
 ## Binary Search Tree
 |  |
