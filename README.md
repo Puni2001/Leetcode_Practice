@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Puni2001/Leetcode_Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Puni2001/Leetcode_Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Puni2001/Leetcode_Practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Puni2001/Leetcode_Practice/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Puni2001/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/Puni2001/Leetcode_Practice/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Puni2001/Leetcode_Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Puni2001/Leetcode_Practice/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Puni2001/Leetcode_Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Puni2001/Leetcode_Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Puni2001/Leetcode_Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Puni2001/Leetcode_Practice/tree/master/0138-copy-list-with-random-pointer) |
@@ -227,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Puni2001/Leetcode_Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Puni2001/Leetcode_Practice/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Puni2001/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Puni2001/Leetcode_Practice/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -429,4 +432,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Puni2001/Leetcode_Practice/tree/master/0146-lru-cache) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Puni2001/Leetcode_Practice/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
