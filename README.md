@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Puni2001/Leetcode_Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Puni2001/Leetcode_Practice/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Puni2001/Leetcode_Practice/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Puni2001/Leetcode_Practice/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Puni2001/Leetcode_Practice/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Puni2001/Leetcode_Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Puni2001/Leetcode_Practice/tree/master/0242-valid-anagram) |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/Puni2001/Leetcode_Practice/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/Puni2001/Leetcode_Practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Puni2001/Leetcode_Practice/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Puni2001/Leetcode_Practice/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Puni2001/Leetcode_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Puni2001/Leetcode_Practice/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Puni2001/Leetcode_Practice/tree/master/0146-lru-cache) |
@@ -245,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Puni2001/Leetcode_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Puni2001/Leetcode_Practice/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Puni2001/Leetcode_Practice/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Puni2001/Leetcode_Practice/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Puni2001/Leetcode_Practice/tree/master/0424-longest-repeating-character-replacement) |
