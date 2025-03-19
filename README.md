@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Puni2001/Leetcode_Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Puni2001/Leetcode_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Puni2001/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
+| [0695-max-area-of-island](https://github.com/Puni2001/Leetcode_Practice/tree/master/0695-max-area-of-island) |
 | [0792-binary-search](https://github.com/Puni2001/Leetcode_Practice/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/Puni2001/Leetcode_Practice/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Puni2001/Leetcode_Practice/tree/master/0907-koko-eating-bananas) |
@@ -264,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/Puni2001/Leetcode_Practice/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Puni2001/Leetcode_Practice/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Puni2001/Leetcode_Practice/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Puni2001/Leetcode_Practice/tree/master/0695-max-area-of-island) |
 | [2145-grid-game](https://github.com/Puni2001/Leetcode_Practice/tree/master/2145-grid-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/Puni2001/Leetcode_Practice/tree/master/3227-find-missing-and-repeated-values) |
 ## Union Find
@@ -271,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Puni2001/Leetcode_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Puni2001/Leetcode_Practice/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Puni2001/Leetcode_Practice/tree/master/0695-max-area-of-island) |
 ## Sliding Window
 |  |
 | ------- |
@@ -327,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/Puni2001/Leetcode_Practice/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Puni2001/Leetcode_Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Puni2001/Leetcode_Practice/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Puni2001/Leetcode_Practice/tree/master/0695-max-area-of-island) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Puni2001/Leetcode_Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -338,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/Puni2001/Leetcode_Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Puni2001/Leetcode_Practice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Puni2001/Leetcode_Practice/tree/master/0226-invert-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Puni2001/Leetcode_Practice/tree/master/0695-max-area-of-island) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Puni2001/Leetcode_Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
