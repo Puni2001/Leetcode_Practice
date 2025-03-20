@@ -1,22 +1,14 @@
 class Solution:
     def reverseWords(self, s: str) -> str:
-      s = s.strip()  # Remove leading/trailing spaces
-      words = []
-      left = 0
+      words = s.split()
+      left , right = 0, len(words)-1
 
-      # Split words manually
-      while left < len(s):
-          while left < len(s) and s[left] == " ":  # Skip spaces
-              left += 1
-          if left >= len(s):
-              break
-          right = left
-          while right < len(s) and s[right] != " ":  # Find end of word
-              right += 1
-          words.append(s[left:right])
-          left = right  # Move to next word
+      while left < right:
+        words[left] , words[right] = words[right],words[left]
+        left += 1
+        right -=1 
 
-      return " ".join(reversed(words))  # Reverse words and join
+      return " ".join(words)
           
           
 
