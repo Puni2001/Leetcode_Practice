@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/Puni2001/Leetcode_Practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Puni2001/Leetcode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Puni2001/Leetcode_Practice/tree/master/0392-is-subsequence) |
+| [0747-min-cost-climbing-stairs](https://github.com/Puni2001/Leetcode_Practice/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Puni2001/Leetcode_Practice/tree/master/1013-fibonacci-number) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Puni2001/Leetcode_Practice/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Array
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/Puni2001/Leetcode_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Puni2001/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0695-max-area-of-island](https://github.com/Puni2001/Leetcode_Practice/tree/master/0695-max-area-of-island) |
+| [0747-min-cost-climbing-stairs](https://github.com/Puni2001/Leetcode_Practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Puni2001/Leetcode_Practice/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/Puni2001/Leetcode_Practice/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Puni2001/Leetcode_Practice/tree/master/0907-koko-eating-bananas) |
