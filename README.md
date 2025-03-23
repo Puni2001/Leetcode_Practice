@@ -286,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/Puni2001/Leetcode_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Puni2001/Leetcode_Practice/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Puni2001/Leetcode_Practice/tree/master/0695-max-area-of-island) |
+| [2793-count-the-number-of-complete-components](https://github.com/Puni2001/Leetcode_Practice/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Puni2001/Leetcode_Practice/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Sliding Window
 |  |
@@ -347,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/Puni2001/Leetcode_Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Puni2001/Leetcode_Practice/tree/master/0695-max-area-of-island) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Puni2001/Leetcode_Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/Puni2001/Leetcode_Practice/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -362,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/Puni2001/Leetcode_Practice/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/Puni2001/Leetcode_Practice/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Puni2001/Leetcode_Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/Puni2001/Leetcode_Practice/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -517,6 +520,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/Puni2001/Leetcode_Practice/tree/master/0207-course-schedule) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Puni2001/Leetcode_Practice/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Puni2001/Leetcode_Practice/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2793-count-the-number-of-complete-components](https://github.com/Puni2001/Leetcode_Practice/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Puni2001/Leetcode_Practice/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
 |  |
