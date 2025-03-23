@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Puni2001/Leetcode_Practice/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Puni2001/Leetcode_Practice/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Puni2001/Leetcode_Practice/tree/master/0076-minimum-window-substring) |
+| [0091-decode-ways](https://github.com/Puni2001/Leetcode_Practice/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Puni2001/Leetcode_Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Puni2001/Leetcode_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Puni2001/Leetcode_Practice/tree/master/0205-isomorphic-strings) |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Puni2001/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Puni2001/Leetcode_Practice/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Puni2001/Leetcode_Practice/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/Puni2001/Leetcode_Practice/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Puni2001/Leetcode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Puni2001/Leetcode_Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Puni2001/Leetcode_Practice/tree/master/0213-house-robber-ii) |
