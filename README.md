@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/Puni2001/Leetcode_Practice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Puni2001/Leetcode_Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Puni2001/Leetcode_Practice/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Puni2001/Leetcode_Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Puni2001/Leetcode_Practice/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Puni2001/Leetcode_Practice/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Puni2001/Leetcode_Practice/tree/master/0647-palindromic-substrings) |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Puni2001/Leetcode_Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Puni2001/Leetcode_Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Puni2001/Leetcode_Practice/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Puni2001/Leetcode_Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Puni2001/Leetcode_Practice/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Puni2001/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0695-max-area-of-island](https://github.com/Puni2001/Leetcode_Practice/tree/master/0695-max-area-of-island) |
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Puni2001/Leetcode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Puni2001/Leetcode_Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Puni2001/Leetcode_Practice/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Puni2001/Leetcode_Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0792-binary-search](https://github.com/Puni2001/Leetcode_Practice/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Puni2001/Leetcode_Practice/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/Puni2001/Leetcode_Practice/tree/master/1023-time-based-key-value-store) |
