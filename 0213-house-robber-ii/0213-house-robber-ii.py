@@ -5,10 +5,19 @@ class Solution:
                             self.helper(nums[:-1]))
 
     def helper(self, nums):
-        rob1, rob2 = 0, 0
+      if not nums:
+        return 0
+      n = len(nums)
 
-        for num in nums:
-            newRob = max(rob1 + num, rob2)
-            rob1 = rob2
-            rob2 = newRob
-        return rob2
+      if n == 1:
+        return nums[0]
+      if n == 2:
+        return max(nums[0], nums[1])
+
+      prev = nums[0]
+      curr = max(nums[0] , nums[1])
+
+      for i in range(2, n):
+        prev , curr = curr , max(nums[i] + prev, curr)
+
+      return curr
