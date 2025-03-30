@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/Puni2001/Leetcode_Practice/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Puni2001/Leetcode_Practice/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Puni2001/Leetcode_Practice/tree/master/0647-palindromic-substrings) |
+| [0768-partition-labels](https://github.com/Puni2001/Leetcode_Practice/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/Puni2001/Leetcode_Practice/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/Puni2001/Leetcode_Practice/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Puni2001/Leetcode_Practice/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/Puni2001/Leetcode_Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Puni2001/Leetcode_Practice/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Puni2001/Leetcode_Practice/tree/master/0647-palindromic-substrings) |
+| [0768-partition-labels](https://github.com/Puni2001/Leetcode_Practice/tree/master/0768-partition-labels) |
 | [1023-time-based-key-value-store](https://github.com/Puni2001/Leetcode_Practice/tree/master/1023-time-based-key-value-store) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Puni2001/Leetcode_Practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1894-merge-strings-alternately](https://github.com/Puni2001/Leetcode_Practice/tree/master/1894-merge-strings-alternately) |
@@ -204,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/Puni2001/Leetcode_Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Puni2001/Leetcode_Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Puni2001/Leetcode_Practice/tree/master/0567-permutation-in-string) |
+| [0768-partition-labels](https://github.com/Puni2001/Leetcode_Practice/tree/master/0768-partition-labels) |
 | [1023-time-based-key-value-store](https://github.com/Puni2001/Leetcode_Practice/tree/master/1023-time-based-key-value-store) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Puni2001/Leetcode_Practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Puni2001/Leetcode_Practice/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -367,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Puni2001/Leetcode_Practice/tree/master/0011-container-with-most-water) |
+| [0768-partition-labels](https://github.com/Puni2001/Leetcode_Practice/tree/master/0768-partition-labels) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Puni2001/Leetcode_Practice/tree/master/3001-apply-operations-to-maximize-score) |
 ## Tree
 |  |
