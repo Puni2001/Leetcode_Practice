@@ -1,28 +1,31 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
+        # using sliding window 
         """
-        Brute -> checking with nested  loops all substrings and updating the longest 
-        Time -> O(N^2)
+             "abcabcbb"
+                  l 
+                    r 
 
-        Optimize -> Sliding window 
-
-            s = "abcabcbb"   longest = 3  char_set = set()
-                  l
-                     r
-            check window is valid update longest and char_set and move right pointer
-            else remove char_set of s[left] move right pointer 
+            1. char_set = set()  to avoid duplicates 
+            2. longest = 0 to tract max so far 
+            3. use two pointer left and right 
+            4. window = right - left + 1
+        
         """
+
+        longest = 0 
+        n  = len(s)
         char_set = set()
-        longest = 0
         left = 0
-       
-        for right in range(len(s)):
-            
-            while s[right] in char_set:
-                char_set.remove(s[left])
-                left += 1
-            
-            char_set.add(s[right])
-            longest = max(longest, right - left + 1 )
+
+        for right in range(n):
+          while s[right] in char_set:
+            char_set.remove(s[left])
+            left += 1
+          char_set.add(s[right])
+          window = right - left + 1
+
+          longest = max(longest, window)
 
         return longest 
+            
