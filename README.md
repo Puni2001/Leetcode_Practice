@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3430-count-days-without-meetings](https://github.com/Puni2001/Leetcode_Practice/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Puni2001/Leetcode_Practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Puni2001/Leetcode_Practice/tree/master/3483-alternating-groups-ii) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Puni2001/Leetcode_Practice/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3643-zero-array-transformation-ii](https://github.com/Puni2001/Leetcode_Practice/tree/master/3643-zero-array-transformation-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Puni2001/Leetcode_Practice/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Binary Search
@@ -223,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2888-minimum-index-of-a-valid-split](https://github.com/Puni2001/Leetcode_Practice/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/Puni2001/Leetcode_Practice/tree/master/3227-find-missing-and-repeated-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Puni2001/Leetcode_Practice/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Puni2001/Leetcode_Practice/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Math
 |  |
 | ------- |
