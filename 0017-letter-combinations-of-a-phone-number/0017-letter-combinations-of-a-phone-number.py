@@ -11,7 +11,7 @@ class Solution:
           result = []
 
           def backtrack(index, path):
-              if len(path) == len(digits):
+              if index == len(digits):
                   result.append(path)
                   return
 
