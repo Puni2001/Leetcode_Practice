@@ -1,12 +1,5 @@
 class Solution:
-    def containsDuplicate(self, nums: List[int]) -> bool: 
-        """
-         intiakize hashset set()
-         if num is in hashset return true 
-         else add to hashset 
-         if no duplicates return false 
-        
-        """ 
+    def containsDuplicate(self, nums: List[int]) -> bool:
         seen = set()
 
         for num in nums:
