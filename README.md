@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Puni2001/Leetcode_Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Puni2001/Leetcode_Practice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Puni2001/Leetcode_Practice/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/Puni2001/Leetcode_Practice/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Puni2001/Leetcode_Practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Puni2001/Leetcode_Practice/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Puni2001/Leetcode_Practice/tree/master/0078-subsets) |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/Puni2001/Leetcode_Practice/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Puni2001/Leetcode_Practice/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/Puni2001/Leetcode_Practice/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Puni2001/Leetcode_Practice/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Puni2001/Leetcode_Practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Puni2001/Leetcode_Practice/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Puni2001/Leetcode_Practice/tree/master/0150-evaluate-reverse-polish-notation) |
