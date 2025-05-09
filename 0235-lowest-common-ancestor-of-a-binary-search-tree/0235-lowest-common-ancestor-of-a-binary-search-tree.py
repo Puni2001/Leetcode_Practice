@@ -10,11 +10,13 @@ class Solution:
         current = root 
 
         while current:
-            if p.val < current.val and q.val < current.val:
-                current = current.left 
+          if p.val > current.val and q.val > current.val:
+            current = current.right 
 
-            elif p.val > current.val and  q.val > current.val:
-                current = current.right 
+          elif p.val < current.val and q.val < current.val:
+            current = current.left  
 
-            else:
-                return current 
+          else:
+            return current
+          
+          
