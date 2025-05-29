@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Puni2001/Leetcode_Practice/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Puni2001/Leetcode_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Puni2001/Leetcode_Practice/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Puni2001/Leetcode_Practice/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Puni2001/Leetcode_Practice/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/Puni2001/Leetcode_Practice/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Puni2001/Leetcode_Practice/tree/master/0125-valid-palindrome) |
@@ -247,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/Puni2001/Leetcode_Practice/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/Puni2001/Leetcode_Practice/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Puni2001/Leetcode_Practice/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Puni2001/Leetcode_Practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Puni2001/Leetcode_Practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Puni2001/Leetcode_Practice/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Puni2001/Leetcode_Practice/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -564,6 +566,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Puni2001/Leetcode_Practice/tree/master/0067-add-binary) |
 | [1708-design-parking-system](https://github.com/Puni2001/Leetcode_Practice/tree/master/1708-design-parking-system) |
 | [2048-build-array-from-permutation](https://github.com/Puni2001/Leetcode_Practice/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Puni2001/Leetcode_Practice/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -581,6 +584,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Puni2001/Leetcode_Practice/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Puni2001/Leetcode_Practice/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Puni2001/Leetcode_Practice/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Puni2001/Leetcode_Practice/tree/master/0222-count-complete-tree-nodes) |
