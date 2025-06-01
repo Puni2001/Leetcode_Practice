@@ -262,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2610-closest-prime-numbers-in-range](https://github.com/Puni2001/Leetcode_Practice/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Puni2001/Leetcode_Practice/tree/master/2649-count-total-number-of-colored-cells) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Puni2001/Leetcode_Practice/tree/master/3001-apply-operations-to-maximize-score) |
+| [3201-distribute-candies-among-children-ii](https://github.com/Puni2001/Leetcode_Practice/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/Puni2001/Leetcode_Practice/tree/master/3227-find-missing-and-repeated-values) |
 ## Linked List
 |  |
@@ -661,4 +662,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Puni2001/Leetcode_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Combinatorics
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/Puni2001/Leetcode_Practice/tree/master/3201-distribute-candies-among-children-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/Puni2001/Leetcode_Practice/tree/master/3201-distribute-candies-among-children-ii) |
 <!---LeetCode Topics End-->
