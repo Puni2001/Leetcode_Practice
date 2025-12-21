@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/Puni2001/Leetcode_Practice/tree/master/0647-palindromic-substrings) |
 | [0742-to-lower-case](https://github.com/Puni2001/Leetcode_Practice/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/Puni2001/Leetcode_Practice/tree/master/0768-partition-labels) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Puni2001/Leetcode_Practice/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1023-time-based-key-value-store](https://github.com/Puni2001/Leetcode_Practice/tree/master/1023-time-based-key-value-store) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Puni2001/Leetcode_Practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1894-merge-strings-alternately](https://github.com/Puni2001/Leetcode_Practice/tree/master/1894-merge-strings-alternately) |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/Puni2001/Leetcode_Practice/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/Puni2001/Leetcode_Practice/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Puni2001/Leetcode_Practice/tree/master/0907-koko-eating-bananas) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Puni2001/Leetcode_Practice/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1036-rotting-oranges](https://github.com/Puni2001/Leetcode_Practice/tree/master/1036-rotting-oranges) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Puni2001/Leetcode_Practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Puni2001/Leetcode_Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -418,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/Puni2001/Leetcode_Practice/tree/master/0011-container-with-most-water) |
 | [0768-partition-labels](https://github.com/Puni2001/Leetcode_Practice/tree/master/0768-partition-labels) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Puni2001/Leetcode_Practice/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [2681-put-marbles-in-bags](https://github.com/Puni2001/Leetcode_Practice/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Puni2001/Leetcode_Practice/tree/master/3001-apply-operations-to-maximize-score) |
 ## Tree
