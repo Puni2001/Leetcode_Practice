@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/Puni2001/Leetcode_Practice/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Puni2001/Leetcode_Practice/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Puni2001/Leetcode_Practice/tree/master/1013-fibonacci-number) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Puni2001/Leetcode_Practice/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Puni2001/Leetcode_Practice/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Array
 |  |
