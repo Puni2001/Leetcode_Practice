@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1390-four-divisors](https://github.com/Puni2001/Leetcode_Practice/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Puni2001/Leetcode_Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Puni2001/Leetcode_Practice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1975-maximum-matrix-sum](https://github.com/Puni2001/Leetcode_Practice/tree/master/1975-maximum-matrix-sum) |
 | [2048-build-array-from-permutation](https://github.com/Puni2001/Leetcode_Practice/tree/master/2048-build-array-from-permutation) |
 | [2145-grid-game](https://github.com/Puni2001/Leetcode_Practice/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Puni2001/Leetcode_Practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -384,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Puni2001/Leetcode_Practice/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Puni2001/Leetcode_Practice/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/Puni2001/Leetcode_Practice/tree/master/1036-rotting-oranges) |
+| [1975-maximum-matrix-sum](https://github.com/Puni2001/Leetcode_Practice/tree/master/1975-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/Puni2001/Leetcode_Practice/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Puni2001/Leetcode_Practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Puni2001/Leetcode_Practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -430,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/Puni2001/Leetcode_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0768-partition-labels](https://github.com/Puni2001/Leetcode_Practice/tree/master/0768-partition-labels) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Puni2001/Leetcode_Practice/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1975-maximum-matrix-sum](https://github.com/Puni2001/Leetcode_Practice/tree/master/1975-maximum-matrix-sum) |
 | [2681-put-marbles-in-bags](https://github.com/Puni2001/Leetcode_Practice/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Puni2001/Leetcode_Practice/tree/master/3001-apply-operations-to-maximize-score) |
 ## Tree
