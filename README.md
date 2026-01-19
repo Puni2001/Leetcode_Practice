@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Puni2001/Leetcode_Practice/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Puni2001/Leetcode_Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1036-rotting-oranges](https://github.com/Puni2001/Leetcode_Practice/tree/master/1036-rotting-oranges) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Puni2001/Leetcode_Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Puni2001/Leetcode_Practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1390-four-divisors](https://github.com/Puni2001/Leetcode_Practice/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Puni2001/Leetcode_Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/Puni2001/Leetcode_Practice/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Puni2001/Leetcode_Practice/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/Puni2001/Leetcode_Practice/tree/master/1023-time-based-key-value-store) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Puni2001/Leetcode_Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Puni2001/Leetcode_Practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Puni2001/Leetcode_Practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Puni2001/Leetcode_Practice/tree/master/2665-minimum-time-to-repair-cars) |
@@ -387,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Puni2001/Leetcode_Practice/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Puni2001/Leetcode_Practice/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/Puni2001/Leetcode_Practice/tree/master/1036-rotting-oranges) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Puni2001/Leetcode_Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1975-maximum-matrix-sum](https://github.com/Puni2001/Leetcode_Practice/tree/master/1975-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/Puni2001/Leetcode_Practice/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Puni2001/Leetcode_Practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -424,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Puni2001/Leetcode_Practice/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Puni2001/Leetcode_Practice/tree/master/0560-subarray-sum-equals-k) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Puni2001/Leetcode_Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [2145-grid-game](https://github.com/Puni2001/Leetcode_Practice/tree/master/2145-grid-game) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Puni2001/Leetcode_Practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Puni2001/Leetcode_Practice/tree/master/3643-zero-array-transformation-ii) |
