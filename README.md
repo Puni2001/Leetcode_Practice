@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3001-apply-operations-to-maximize-score](https://github.com/Puni2001/Leetcode_Practice/tree/master/3001-apply-operations-to-maximize-score) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Puni2001/Leetcode_Practice/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Puni2001/Leetcode_Practice/tree/master/3227-find-missing-and-repeated-values) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Puni2001/Leetcode_Practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Puni2001/Leetcode_Practice/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/Puni2001/Leetcode_Practice/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Puni2001/Leetcode_Practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -637,6 +638,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/Puni2001/Leetcode_Practice/tree/master/0287-find-the-duplicate-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Puni2001/Leetcode_Practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Puni2001/Leetcode_Practice/tree/master/2478-longest-nice-subarray) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Puni2001/Leetcode_Practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Puni2001/Leetcode_Practice/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Puni2001/Leetcode_Practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Monotonic Stack
