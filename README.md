@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Puni2001/Leetcode_Practice/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Puni2001/Leetcode_Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1036-rotting-oranges](https://github.com/Puni2001/Leetcode_Practice/tree/master/1036-rotting-oranges) |
+| [1200-minimum-absolute-difference](https://github.com/Puni2001/Leetcode_Practice/tree/master/1200-minimum-absolute-difference) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Puni2001/Leetcode_Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Puni2001/Leetcode_Practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1390-four-divisors](https://github.com/Puni2001/Leetcode_Practice/tree/master/1390-four-divisors) |
@@ -333,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Puni2001/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Puni2001/Leetcode_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0883-car-fleet](https://github.com/Puni2001/Leetcode_Practice/tree/master/0883-car-fleet) |
+| [1200-minimum-absolute-difference](https://github.com/Puni2001/Leetcode_Practice/tree/master/1200-minimum-absolute-difference) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Puni2001/Leetcode_Practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Puni2001/Leetcode_Practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Puni2001/Leetcode_Practice/tree/master/2681-put-marbles-in-bags) |
