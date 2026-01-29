@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Puni2001/Leetcode_Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Puni2001/Leetcode_Practice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Puni2001/Leetcode_Practice/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1929-concatenation-of-array](https://github.com/Puni2001/Leetcode_Practice/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/Puni2001/Leetcode_Practice/tree/master/1975-maximum-matrix-sum) |
 | [2048-build-array-from-permutation](https://github.com/Puni2001/Leetcode_Practice/tree/master/2048-build-array-from-permutation) |
 | [2145-grid-game](https://github.com/Puni2001/Leetcode_Practice/tree/master/2145-grid-game) |
@@ -620,6 +621,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0067-add-binary](https://github.com/Puni2001/Leetcode_Practice/tree/master/0067-add-binary) |
 | [1708-design-parking-system](https://github.com/Puni2001/Leetcode_Practice/tree/master/1708-design-parking-system) |
+| [1929-concatenation-of-array](https://github.com/Puni2001/Leetcode_Practice/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/Puni2001/Leetcode_Practice/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Puni2001/Leetcode_Practice/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Puni2001/Leetcode_Practice/tree/master/2551-apply-operations-to-an-array) |
