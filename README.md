@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3519-find-the-number-of-winning-players](https://github.com/Puni2001/Leetcode_Practice/tree/master/3519-find-the-number-of-winning-players) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Puni2001/Leetcode_Practice/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Puni2001/Leetcode_Practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3637-trionic-array-i](https://github.com/Puni2001/Leetcode_Practice/tree/master/3637-trionic-array-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Puni2001/Leetcode_Practice/tree/master/3643-zero-array-transformation-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Puni2001/Leetcode_Practice/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Binary Search
