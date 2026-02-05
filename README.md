@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3227-find-missing-and-repeated-values](https://github.com/Puni2001/Leetcode_Practice/tree/master/3227-find-missing-and-repeated-values) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Puni2001/Leetcode_Practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Puni2001/Leetcode_Practice/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3379-transformed-array](https://github.com/Puni2001/Leetcode_Practice/tree/master/3379-transformed-array) |
 | [3430-count-days-without-meetings](https://github.com/Puni2001/Leetcode_Practice/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Puni2001/Leetcode_Practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Puni2001/Leetcode_Practice/tree/master/3483-alternating-groups-ii) |
@@ -628,6 +629,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2048-build-array-from-permutation](https://github.com/Puni2001/Leetcode_Practice/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Puni2001/Leetcode_Practice/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Puni2001/Leetcode_Practice/tree/master/2551-apply-operations-to-an-array) |
+| [3379-transformed-array](https://github.com/Puni2001/Leetcode_Practice/tree/master/3379-transformed-array) |
 | [3447-clear-digits](https://github.com/Puni2001/Leetcode_Practice/tree/master/3447-clear-digits) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Puni2001/Leetcode_Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Backtracking
