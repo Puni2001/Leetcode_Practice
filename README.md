@@ -738,4 +738,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Puni2001/Leetcode_Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Puni2001/Leetcode_Practice/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
