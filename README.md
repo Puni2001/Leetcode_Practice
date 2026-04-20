@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-concatenation-of-array](https://github.com/Puni2001/Leetcode_Practice/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/Puni2001/Leetcode_Practice/tree/master/1975-maximum-matrix-sum) |
 | [2048-build-array-from-permutation](https://github.com/Puni2001/Leetcode_Practice/tree/master/2048-build-array-from-permutation) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Puni2001/Leetcode_Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2145-grid-game](https://github.com/Puni2001/Leetcode_Practice/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Puni2001/Leetcode_Practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Puni2001/Leetcode_Practice/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -453,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/Puni2001/Leetcode_Practice/tree/master/0768-partition-labels) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Puni2001/Leetcode_Practice/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1975-maximum-matrix-sum](https://github.com/Puni2001/Leetcode_Practice/tree/master/1975-maximum-matrix-sum) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Puni2001/Leetcode_Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2681-put-marbles-in-bags](https://github.com/Puni2001/Leetcode_Practice/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Puni2001/Leetcode_Practice/tree/master/3001-apply-operations-to-maximize-score) |
 ## Tree
