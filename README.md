@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/Puni2001/Leetcode_Practice/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Puni2001/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Puni2001/Leetcode_Practice/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Puni2001/Leetcode_Practice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Puni2001/Leetcode_Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Puni2001/Leetcode_Practice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Puni2001/Leetcode_Practice/tree/master/0056-merge-intervals) |
@@ -278,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/Puni2001/Leetcode_Practice/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Puni2001/Leetcode_Practice/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Puni2001/Leetcode_Practice/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/Puni2001/Leetcode_Practice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Puni2001/Leetcode_Practice/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Puni2001/Leetcode_Practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Puni2001/Leetcode_Practice/tree/master/0067-add-binary) |
@@ -399,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Puni2001/Leetcode_Practice/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Puni2001/Leetcode_Practice/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Puni2001/Leetcode_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Puni2001/Leetcode_Practice/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Puni2001/Leetcode_Practice/tree/master/0200-number-of-islands) |
