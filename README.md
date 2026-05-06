@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/Puni2001/Leetcode_Practice/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/Puni2001/Leetcode_Practice/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/Puni2001/Leetcode_Practice/tree/master/0908-middle-of-the-linked-list) |
+| [1861-rotating-the-box](https://github.com/Puni2001/Leetcode_Practice/tree/master/1861-rotating-the-box) |
 | [1894-merge-strings-alternately](https://github.com/Puni2001/Leetcode_Practice/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Puni2001/Leetcode_Practice/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Puni2001/Leetcode_Practice/tree/master/2551-apply-operations-to-an-array) |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Puni2001/Leetcode_Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Puni2001/Leetcode_Practice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Puni2001/Leetcode_Practice/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1861-rotating-the-box](https://github.com/Puni2001/Leetcode_Practice/tree/master/1861-rotating-the-box) |
 | [1929-concatenation-of-array](https://github.com/Puni2001/Leetcode_Practice/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/Puni2001/Leetcode_Practice/tree/master/1975-maximum-matrix-sum) |
 | [2048-build-array-from-permutation](https://github.com/Puni2001/Leetcode_Practice/tree/master/2048-build-array-from-permutation) |
@@ -410,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/Puni2001/Leetcode_Practice/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/Puni2001/Leetcode_Practice/tree/master/1036-rotting-oranges) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Puni2001/Leetcode_Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1861-rotating-the-box](https://github.com/Puni2001/Leetcode_Practice/tree/master/1861-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/Puni2001/Leetcode_Practice/tree/master/1975-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/Puni2001/Leetcode_Practice/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Puni2001/Leetcode_Practice/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
