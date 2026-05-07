@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Puni2001/Leetcode_Practice/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Puni2001/Leetcode_Practice/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Puni2001/Leetcode_Practice/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3660-jump-game-ix](https://github.com/Puni2001/Leetcode_Practice/tree/master/3660-jump-game-ix) |
 ## Array
 |  |
 | ------- |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3637-trionic-array-i](https://github.com/Puni2001/Leetcode_Practice/tree/master/3637-trionic-array-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Puni2001/Leetcode_Practice/tree/master/3643-zero-array-transformation-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Puni2001/Leetcode_Practice/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3660-jump-game-ix](https://github.com/Puni2001/Leetcode_Practice/tree/master/3660-jump-game-ix) |
 ## Binary Search
 |  |
 | ------- |
